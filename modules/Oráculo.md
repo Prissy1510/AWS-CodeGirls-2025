@@ -24,4 +24,4 @@
 22. **S3 e AWS Backup** - Armazenam e automatizam o processo de backup.  
 23. **CloudWatch** - Monitora recursos e envia alertas sobre falhas.
 
-<img src="https://media.tenor.com/Ms0bC0KZJoUAAAAC/matrix-oracle.gif" alt="Oracle - Hmm... interessante" width="300"/>
+![Oracle - Hmm... interessante](https://media.tenor.com/Ms0bC0KZJoUAAAAC/matrix-oracle-hmm-interesting-that%27s-interesting-now-i%27m-supposed-to-say-the-matrix-gif-10880580184293565007.gif)
