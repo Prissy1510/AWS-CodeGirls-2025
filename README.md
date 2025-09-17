@@ -9,12 +9,12 @@
 ## Índice:
 
 - [Sobre mim](#sobre-mim)
-- [Objetivos do laboratório](#objetivos-do-laboratorio)
-- [O que você encontra aqui](#o-que-voce-encontra-aqui)
+- [Objetivos do laboratorio](#objetivos-do-laboratorio)
+- [O que voce encontra aqui](#o-que-voce-encontra-aqui)
 - [Ferramentas e tecnologias](#ferramentas-e-tecnologias)
-- [Contribuição](#contribuicao)
+- [Contribuicao](#contribuicao)
 - [Fale comigo](#fale-comigo)
-- [Licença](#licenca)
+- [Licenca](#licenca)
 
 
 
