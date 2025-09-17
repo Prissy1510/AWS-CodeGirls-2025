@@ -8,13 +8,14 @@
 
 ## Índice:
 
-- [Sobre mim](#-sobre-mim)
-- [Objetivos do laboratório](#-objetivos-do-laboratório)
-- [O que você encontra aqui](#-o-que-você-encontra-aqui)
-- [Ferramentas e tecnologias](#-ferramentas-e-tecnologias)
-- [Contribuição](#-contribuição)
-- [Fale comigo](#-fale-comigo)
-- [Licença](#-licença)
+- [Sobre mim](#sobre-mim)
+- [Objetivos do laboratório](#objetivos-do-laboratório)
+- [O que você encontra aqui](#o-que-você-encontra-aqui)
+- [Ferramentas e tecnologias](#ferramentas-e-tecnologias)
+- [Contribuição](#contribuição)
+- [Fale comigo](#fale-comigo)
+- [Licença](#licença)
+
 
 
 ---
