@@ -37,9 +37,9 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 
 ###  O que você encontra aqui
 - `/Oracle/oraculo.md` — O Oráculo é um guia de termos e conceitos do meu projeto, inspirado em MATRIX.
-- `/modules/` — cursos organizados por módulos  
-- `/projects/` — desafios de códigos que desenvolvi  
-- `/certificates/` — meus certificados de cada Módulo Concluído  
+- `/modules/` — Cursos organizados por módulos  
+- `/projects/` — Desafios de projetos que desenvolvi  
+- `/certificates/` — Meus certificados de cada Módulo Concluído  
 
 
 ---
