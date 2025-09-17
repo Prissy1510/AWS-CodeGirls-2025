@@ -1,53 +1,74 @@
-
 # Bootcamp Santander Code Girls 2025 - Minha Jornada em Computação em Nuvem
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Made with](https://img.shields.io/badge/made%20with-Markdown-blue)
+[![Star](https://img.shields.io/github/stars/isadora-cmn/AWS-CodeGirls-2025?style=social)](https://github.com/isadora-cmn/AWS-CodeGirls-2025/stargazers)
+[![Fork](https://img.shields.io/github/forks/isadora-cmn/AWS-CodeGirls-2025?style=social)](https://github.com/isadora-cmn/AWS-CodeGirls-2025/fork)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="150"/>
 </p>
 
-Neste repositório, vou registrar toda a minha experiência prática com a AWS, como parte do Bootcamp Santander Code Girls 2025.
+## 📑 Índice
+- [Sobre mim](#-sobre-mim)
+- [Objetivos do laboratório](#-objetivos-do-laboratório)
+- [O que você encontra aqui](#-o-que-você-encontra-aqui)
+- [Ferramentas e tecnologias](#-ferramentas-e-tecnologias)
+- [Contribuição](#-contribuição)
+- [Fale comigo](#-fale-comigo)
+- [Licença](#-licença)
 
-📌 **Sobre mim**  
-Oi! Eu sou Isadora Militão, estudante de Ciência da Computação e Ciência de Dados, apaixonada por tecnologia e dados. Estou documentando minhas práticas em nuvem, desafios e aprendizados para consolidar meus conhecimentos e facilitar consultas futuras.
+---
 
-**Objetivos deste laboratório**
+## 📌 Sobre mim
+Oi! Eu sou **Isadora Militão Neves**, estudante de Ciência da Computação e Ciência de Dados, apaixonada por tecnologia e dados.  
+Estou documentando minhas práticas em nuvem, desafios e aprendizados para consolidar meus conhecimentos e facilitar consultas futuras.
 
-1️⃣ Aplicar conceitos aprendidos sobre AWS
+---
+
+## 🎯 Objetivos do laboratório
+
+1️⃣ Aplicar conceitos aprendidos sobre AWS  
 2️⃣ Organizar e documentar todo o processo técnico  
 3️⃣ Criar um repositório que sirva de guia para futuras implementações  
 4️⃣ Preparar para a certificação AWS Cloud Practitioner  
- 
 
- **O que você encontra aqui**  
+---
+
+## 📂 O que você encontra aqui
 - `/modules/` — cursos organizados por módulos  
 - `/projects/` — desafios de códigos que desenvolvi  
-- `/certificates/` — meus certificados 
+- `/certificates/` — meus certificados  
 
+---
 
-🔧 **Ferramentas e tecnologias**  
+## 🔧 Ferramentas e tecnologias
 - Git e GitHub  
 - VSCode  
-- Draw.io 
+- Draw.io  
 - AWS  
 
+---
 
-# 🤝 Contribuição
-
+## 🤝 Contribuição
 Este repositório é **aberto para a comunidade**!  
 Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 
-- 🌟 **Dê uma estrela** no projeto se achou útil ou inspirador: [⭐ Star](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/stargazers)  
-- 🍴 **Faça um fork** para criar sua própria versão: [🍴 Fork](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/fork)  
-- 💬 **Deixe sugestões** abrindo uma issue ou pull request: [📝 Issue](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/issues) | [🔧 Pull Request](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/pulls)  
+- 🌟 **Dê uma estrela** no projeto se achou útil ou inspirador: [⭐ Star](https://github.com/isadora-cmn/AWS-CodeGirls-2025/stargazers)  
+- 🍴 **Faça um fork** para criar sua própria versão: [🍴 Fork](https://github.com/isadora-cmn/AWS-CodeGirls-2025/fork)  
+- 💬 **Deixe sugestões** abrindo uma issue ou pull request: [📝 Issue](https://github.com/isadora-cmn/AWS-CodeGirls-2025/issues) | [🔧 Pull Request](https://github.com/isadora-cmn/AWS-CodeGirls-2025/pulls)  
 
-> Vamos juntas aprender, compartilhar e crescer na tecnologia!  
+> 💡 Vamos juntas aprender, compartilhar e crescer na tecnologia! 🚀
 
- **Fale comigo**  
+---
+
+## 📬 Fale comigo
 - LinkedIn: [Isadora Militão](https://www.linkedin.com/in/isadora-milit%C3%A3o-neves-61b85a346/)  
 - GitHub: [isadora-cmn](https://github.com/isadora-cmn)  
 
-📄 **Licença**
-Este projeto está sob a licença MIT – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+---
+
+## 📄 Licença
+Este projeto está sob a **licença MIT** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
+![License](https://img.shields.io/badge/license-MIT-green)
+
