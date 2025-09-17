@@ -53,6 +53,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" title="Miro" alt="Miro" width="80px"/>
 </p>
 
+---
 
 <br>
 
