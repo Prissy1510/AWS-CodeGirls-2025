@@ -1,10 +1,14 @@
 # 💻 Projetos e Desafios
 
-Aqui estão os **projetos práticos** e **desafios de código** que desenvolvi ao longo do Bootcamp **Code Girls 2025**.  
+Aqui você encontra todos os **projetos práticos e desafios de código** que desenvolvi ao longo do Bootcamp **Code Girls 2025**. 
 
-Inclui:
-- Desafios de código resolvidos
-- Desafios de projeto resolvidos
-- Anotações
+Cada pasta inclui:  
+-  **Desafios de código resolvidos**  
+-  **Desafios de projeto completos**  
+-  **Anotações e insights**  
 
-> Este diretório mostra na prática a aplicação dos conhecimentos adquiridos. 🌟
+> 🌟 Este diretório mostra na prática como apliquei os conhecimentos adquiridos, permitindo acompanhar minha evolução e aprendizado em tecnologia.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
+</p>
