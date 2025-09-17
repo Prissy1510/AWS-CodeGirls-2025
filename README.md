@@ -6,7 +6,7 @@
 
 
 
-##  Índice:
+## Índice:
 
 - [Sobre mim](#-sobre-mim)
 - [Objetivos do laboratório](#-objetivos-do-laboratório)
@@ -18,14 +18,14 @@
 
 
 ---
-###  Sobre mim
+### Sobre mim
 Oi! Eu sou **Isadora Militão Neves**, estudante de Ciência da Computação e Ciência de Dados, apaixonada por tecnologia e dados.  
 Estou documentando minhas práticas em nuvem, desafios e aprendizados para consolidar meus conhecimentos e facilitar consultas futuras.
 
 
 ---
 
-###  Objetivos do laboratório
+### Objetivos do laboratório
 
 1️⃣ Aplicar conceitos aprendidos sobre AWS  
 2️⃣ Organizar e documentar todo o processo técnico  
@@ -43,7 +43,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 
 ---
 
-###  Ferramentas e tecnologias
+### Ferramentas e tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40px"/>
