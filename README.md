@@ -46,13 +46,8 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40px"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" title="Miro" alt="Miro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40px"/>
-🧩 Miro
-<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" title="Miro" alt="Miro" width="40px"/>
-<img src="https://images.ctfassets.net/w6r2i5d8q73s/7lbB2olG5V5IOw7SQ5OEUF/b01b3e7c42b73e38c39e3b59e6b3b1d5/miro-logo-social-square.png" title="Miro" alt="Miro" width="40px"/>
-
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" title="Miro" alt="Miro" width="60px"/>
 </p>
 
 
