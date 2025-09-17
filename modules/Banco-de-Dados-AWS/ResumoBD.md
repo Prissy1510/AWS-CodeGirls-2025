@@ -1,3 +1,17 @@
+# Resumindo Modulo de Banco de Dados:
+
+- **RDS** → Bancos relacionais (Aurora, Oracle, MySQL, PostgreSQL, MariaDB, SQL Server).  
+
+- **DynamoDB** → Banco NoSQL, super rápido e escalável.  
+
+- **Backup** → Cópia de segurança dos dados para evitar perdas.  
+
+- **RPO e RTO** → Ajudam a definir a frequência de backup e o tempo máximo de recuperação.  
+
+- **S3 e AWS Backup** → Armazenam e automatizam o processo de backup.  
+
+- **CloudWatch** → Monitora recursos e envia alertas sobre falhas.
+
 # 📘 Glossário AWS
 
 1. **Nuvem Pública** - Servidores e serviços compartilhados por um provedor externo (ex: AWS, Google Drive).  
@@ -23,3 +37,22 @@
 21. **RPO e RTO** - Ajudam a definir a frequência de backup e o tempo máximo de recuperação.  
 22. **S3 e AWS Backup** - Armazenam e automatizam o processo de backup.  
 23. **CloudWatch** - Monitora recursos e envia alertas sobre falhas.
+
+---
+
+# 🌐 Diagrama de Arquitetura AWS
+
+```mermaid
+flowchart TD
+    CF[CloudFront CDN] --> ELB[Elastic Load Balancer]
+    ELB --> EC2[EC2 Instances]
+    EC2 --> VPC[VPC]
+    VPC --> Subnet1[Subnet Pública]
+    VPC --> Subnet2[Subnet Privada]
+    Subnet2 --> RDS[RDS (Aurora, MySQL, etc.)]
+    Subnet2 --> DynamoDB[DynamoDB NoSQL]
+    S3[S3 + AWS Backup] --> RDS
+    S3 --> DynamoDB
+    CloudWatch[CloudWatch] --> EC2
+    CloudWatch --> RDS
+    CloudWatch --> DynamoDB
