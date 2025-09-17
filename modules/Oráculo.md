@@ -1,4 +1,4 @@
-                                                        # 📘 Oráculo AWS
+                                                         📘 Oráculo AWS
 
 O **Oráculo** funciona como um guia de termos e conceitos do meu projeto, ajudando a entender tudo de forma clara — assim como o personagem **Oracle** de *Matrix*.  
 <p align="center">
