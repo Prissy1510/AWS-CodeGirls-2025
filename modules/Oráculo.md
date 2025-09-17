@@ -1,5 +1,12 @@
 # 📘 Oráculo AWS
 
+O **Oráculo** funciona como um guia de termos e conceitos do meu projeto, ajudando a entender tudo de forma clara — assim como o personagem **Oracle** de *Matrix*.  
+<p align="center">
+  <img src="../assets/tenor.gif" alt="Oracle - Hmm... interessante" />
+</p>
+
+<br>
+
 1. **Nuvem Pública** - Servidores e serviços compartilhados por um provedor externo (ex: AWS, Google Drive).  
 2. **Nuvem Privada** - Servidores exclusivos de uma empresa, internos ou dedicados.  
 3. **Nuvem Híbrida** - Combinação de nuvem pública e privada para flexibilidade e segurança.  
@@ -25,4 +32,3 @@
 23. **CloudWatch** - Monitora recursos e envia alertas sobre falhas.
 
 
-![Oracle - Hmm... interessante](../assets/tenor.gif)
