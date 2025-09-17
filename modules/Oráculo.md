@@ -1,4 +1,4 @@
-# 📘 Glossário AWS
+# 📘 Oráculo AWS
 
 1. **Nuvem Pública** - Servidores e serviços compartilhados por um provedor externo (ex: AWS, Google Drive).  
 2. **Nuvem Privada** - Servidores exclusivos de uma empresa, internos ou dedicados.  
@@ -23,3 +23,5 @@
 21. **RPO e RTO** - Ajudam a definir a frequência de backup e o tempo máximo de recuperação.  
 22. **S3 e AWS Backup** - Armazenam e automatizam o processo de backup.  
 23. **CloudWatch** - Monitora recursos e envia alertas sobre falhas.
+
+<img src="https://media.tenor.com/Ms0bC0KZJoUAAAAC/matrix-oracle.gif" alt="Oracle - Hmm... interessante" width="300"/>
