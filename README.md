@@ -50,11 +50,11 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 Este repositório é **aberto para a comunidade**!  
 Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 
-- 🌟 **Dê uma estrela** no projeto se achou útil ou inspirador: [⭐ Star](https://github.com/isadora-cmn/AWS-CodeGirls-2025/stargazers)  
-- 🍴 **Faça um fork** para criar sua própria versão: [ Fork](https://github.com/isadora-cmn/AWS-CodeGirls-2025/fork)  
-- 💬 **Deixe sugestões** abrindo uma issue ou pull request: [ Issue](https://github.com/isadora-cmn/AWS-CodeGirls-2025/issues) | [🔧 Pull Request](https://github.com/isadora-cmn/AWS-CodeGirls-2025/pulls)  
+- **Dê uma estrela** no projeto se achou útil ou inspirador: [⭐ Star](https://github.com/isadora-cmn/AWS-CodeGirls-2025/stargazers)  
+- **Faça um fork** para criar sua própria versão: [ Fork](https://github.com/isadora-cmn/AWS-CodeGirls-2025/fork)  
+- **Deixe sugestões** abrindo uma issue ou pull request: [ Issue](https://github.com/isadora-cmn/AWS-CodeGirls-2025/issues) | [🔧 Pull Request](https://github.com/isadora-cmn/AWS-CodeGirls-2025/pulls)  
 
-> 💡 Vamos juntas aprender, compartilhar e crescer na tecnologia! 🚀
+> 💡 Vamos juntas aprender, compartilhar e crescer na tecnologia! 
 
 ---
 
