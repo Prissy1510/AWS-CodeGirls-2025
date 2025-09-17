@@ -36,7 +36,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 ## 📂 O que você encontra aqui
 - `/modules/` — cursos organizados por módulos  
 - `/projects/` — desafios de códigos que desenvolvi  
-- `/certificates/` — meus certificados de cada Módulo Comcluido.
+- `/certificates/` — meus certificados de cada Módulo Concluido.
 
 ---
 
