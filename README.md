@@ -1,6 +1,9 @@
 
 # Bootcamp Santander Code Girls 2025 - Minha Jornada em Computação em Nuvem
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Made with](https://img.shields.io/badge/made%20with-Markdown-blue)
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="150"/>
 </p>
@@ -30,13 +33,21 @@ Oi! Eu sou Isadora Militão, estudante de Ciência da Computação e Ciência de
 - Draw.io 
 - AWS  
 
-📬 **Fale comigo**  
+
+# 🤝 Contribuição
+
+Este repositório é **aberto para a comunidade**!  
+Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
+
+- 🌟 **Dê uma estrela** no projeto se achou útil ou inspirador: [⭐ Star](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/stargazers)  
+- 🍴 **Faça um fork** para criar sua própria versão: [🍴 Fork](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/fork)  
+- 💬 **Deixe sugestões** abrindo uma issue ou pull request: [📝 Issue](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/issues) | [🔧 Pull Request](https://github.com/isadora-cmn/CodeGirls-bootcamp-2025-aws/pulls)  
+
+> Vamos juntas aprender, compartilhar e crescer na tecnologia!  
+
+ **Fale comigo**  
 - LinkedIn: [Isadora Militão](https://www.linkedin.com/in/isadora-milit%C3%A3o-neves-61b85a346/)  
 - GitHub: [isadora-cmn](https://github.com/isadora-cmn)  
-
-🤝 **Contribuições**
-Quer sugerir algo? Fique à vontade para abrir uma [issue](../../issues) ou enviar um [pull request](../../pulls)!
-
 
 📄 **Licença**
 Este projeto está sob a licença MIT – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
