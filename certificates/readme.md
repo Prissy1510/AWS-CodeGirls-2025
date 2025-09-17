@@ -1,10 +1,17 @@
 # 🏆 Certificados
 
-Este diretório armazena todos os meus **certificados de conclusão** obtidos durante o Bootcamp **Code Girls 2025**.
+Bem-vindo ao meu **hall da fama**! ✨  
+Aqui você encontra todos os meus **certificados de conclusão** obtidos ao longo do Bootcamp **Santander Code Girls 2025**.
 
-Cada certificado representa:
-- Uma etapa concluída no aprendizado
-- O esforço dedicado em cada módulo
-- O avanço na minha formação em tecnologia
+📜 **Cada certificado representa:**
+-  Uma etapa superada na minha jornada de aprendizado  
+-  O esforço e dedicação investidos em cada módulo  
+-  O avanço rumo à minha carreira na tecnologia  
 
-> Um registro da minha evolução e conquistas. 🎓
+> 🎓 **Esses certificados são muito mais que PDFs:** são marcos que mostram o quanto estou evoluindo dia após dia!  
+
+💡 **Dica:** Clique nos arquivos para visualizar cada certificado — e comemore comigo cada conquista! 🎉
+![Progress](https://img.shields.io/badge/progresso-70%25-brightgreen)
+![Certificados](https://img.shields.io/badge/certificados-5%20concluídos-blue)
+[![Ver Certificados](https://img.shields.io/badge/ver%20certificados-📂-purple)](./certificates)
+![Keep Learning](https://img.shields.io/badge/keep-learning-orange?style=for-the-badge)
