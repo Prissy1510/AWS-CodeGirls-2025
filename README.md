@@ -12,7 +12,7 @@ Oi! Eu sou Isadora Militão, estudante de Ciência da Computação e Ciência de
 
 **Objetivos deste laboratório**
 
-1️⃣ Aplicar conceitos aprendidos sobre instâncias EC2  
+1️⃣ Aplicar conceitos aprendidos sobre AWS
 2️⃣ Organizar e documentar todo o processo técnico  
 3️⃣ Criar um repositório que sirva de guia para futuras implementações  
 4️⃣ Preparar para a certificação AWS Cloud Practitioner  
@@ -33,6 +33,10 @@ Oi! Eu sou Isadora Militão, estudante de Ciência da Computação e Ciência de
 📬 **Fale comigo**  
 - LinkedIn: [Isadora Militão](https://www.linkedin.com/in/isadora-milit%C3%A3o-neves-61b85a346/)  
 - GitHub: [isadora-cmn](https://github.com/isadora-cmn)  
+
+🤝 **Contribuições**
+Quer sugerir algo? Fique à vontade para abrir uma [issue](../../issues) ou enviar um [pull request](../../pulls)!
+
 
 📄 **Licença**
 Este projeto está sob a licença MIT – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
