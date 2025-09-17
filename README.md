@@ -1,9 +1,9 @@
-# Bootcamp Santander Code Girls 2025 - Minha Jornada em Computação em Nuvem
-
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="150"/>
 </p>
+
+# Bootcamp Santander Code Girls 2025 - Minha Jornada em Computação em Nuvem
+
 
 ##  Índice:
 - [Sobre mim](#-sobre-mim)
