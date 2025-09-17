@@ -20,13 +20,13 @@
 
 ---
 
-## 📌 Sobre mim
+##  Sobre mim
 Oi! Eu sou **Isadora Militão Neves**, estudante de Ciência da Computação e Ciência de Dados, apaixonada por tecnologia e dados.  
 Estou documentando minhas práticas em nuvem, desafios e aprendizados para consolidar meus conhecimentos e facilitar consultas futuras.
 
 ---
 
-## 🎯 Objetivos do laboratório
+##  Objetivos do laboratório
 
 1️⃣ Aplicar conceitos aprendidos sobre AWS  
 2️⃣ Organizar e documentar todo o processo técnico  
@@ -42,7 +42,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 
 ---
 
-## 🔧 Ferramentas e tecnologias
+##  Ferramentas e tecnologias
 - Git e GitHub  
 - VSCode  
 - Draw.io  
@@ -55,8 +55,8 @@ Este repositório é **aberto para a comunidade**!
 Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 
 - 🌟 **Dê uma estrela** no projeto se achou útil ou inspirador: [⭐ Star](https://github.com/isadora-cmn/AWS-CodeGirls-2025/stargazers)  
-- 🍴 **Faça um fork** para criar sua própria versão: [🍴 Fork](https://github.com/isadora-cmn/AWS-CodeGirls-2025/fork)  
-- 💬 **Deixe sugestões** abrindo uma issue ou pull request: [📝 Issue](https://github.com/isadora-cmn/AWS-CodeGirls-2025/issues) | [🔧 Pull Request](https://github.com/isadora-cmn/AWS-CodeGirls-2025/pulls)  
+- 🍴 **Faça um fork** para criar sua própria versão: [ Fork](https://github.com/isadora-cmn/AWS-CodeGirls-2025/fork)  
+- 💬 **Deixe sugestões** abrindo uma issue ou pull request: [ Issue](https://github.com/isadora-cmn/AWS-CodeGirls-2025/issues) | [🔧 Pull Request](https://github.com/isadora-cmn/AWS-CodeGirls-2025/pulls)  
 
 > 💡 Vamos juntas aprender, compartilhar e crescer na tecnologia! 🚀
 
@@ -70,5 +70,4 @@ Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 
 ## 📄 Licença
 Este projeto está sob a **licença MIT** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
-![License](https://img.shields.io/badge/license-MIT-green)
 
