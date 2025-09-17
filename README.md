@@ -17,7 +17,7 @@
 - [Licença](#-licença)
 
 
-
+---
 ###  Sobre mim
 Oi! Eu sou **Isadora Militão Neves**, estudante de Ciência da Computação e Ciência de Dados, apaixonada por tecnologia e dados.  
 Estou documentando minhas práticas em nuvem, desafios e aprendizados para consolidar meus conhecimentos e facilitar consultas futuras.
@@ -25,7 +25,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 
 ---
 
-##  Objetivos do laboratório
+###  Objetivos do laboratório
 
 1️⃣ Aplicar conceitos aprendidos sobre AWS  
 2️⃣ Organizar e documentar todo o processo técnico  
@@ -34,7 +34,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 
 ---
 
-## 📂 O que você encontra aqui
+### 📂 O que você encontra aqui
 - `/Oracle/oraculo.md` — O Oráculo é um guia de termos e conceitos do meu projeto, inspirado em MATRIX.
 - `/modules/` — cursos organizados por módulos  
 - `/projects/` — desafios de códigos que desenvolvi  
@@ -43,7 +43,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 
 ---
 
-##  Ferramentas e tecnologias
+###  Ferramentas e tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40px"/>
