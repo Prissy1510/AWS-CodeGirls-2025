@@ -1,4 +1,4 @@
-# Serverless
+# Serverless:
 
 **O que é:**  
 Serverless (ou “sem servidor”) não significa que **não existem servidores**, mas que você **não precisa se preocupar em gerenciar o servidor**. A empresa de nuvem (como a AWS) cuida de toda a infraestrutura para você.

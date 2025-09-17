@@ -1,4 +1,4 @@
-# Lambda Function
+# Lambda Function:
 
 ### **O que é:**  
 É um **trechinho de código** que você envia para a AWS e que **roda automaticamente quando acontece algo**, sem precisar de um servidor fixo.

@@ -1,5 +1,5 @@
 
-# Region e Availability Zones
+# Region e Availability Zones:
 
 Cada região (**region**) é projetada para ser isolada das outras regiões.  
 Isso proporciona a maior tolerância a falhas e estabilidade possível.

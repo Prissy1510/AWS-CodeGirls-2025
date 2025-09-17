@@ -1,4 +1,4 @@
-# Amazon EC2 -> Elastic Compute Cloud
+# Amazon EC2 -> Elastic Compute Cloud:
 
 **EC2** → computador virtual para rodar aplicações.
 

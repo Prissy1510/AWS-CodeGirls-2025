@@ -1,4 +1,4 @@
-# IaaS, PaaS e SaaS
+# IaaS, PaaS e SaaS:
 
 Os **modelos de serviço em nuvem** definem **o que você gerencia e o que o provedor cuida**.  
 Cada modelo oferece diferentes níveis de controle, responsabilidade e conveniência.

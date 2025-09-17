@@ -1,4 +1,4 @@
-# Tipos de Nuvem.
+# Tipos de Nuvem:
 
 ### **Nuvem Pública**
 
