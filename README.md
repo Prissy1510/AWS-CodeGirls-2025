@@ -1,15 +1,11 @@
 # Bootcamp Santander Code Girls 2025 - Minha Jornada em Computação em Nuvem
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Made with](https://img.shields.io/badge/made%20with-Markdown-blue)
-[![Star](https://img.shields.io/github/stars/isadora-cmn/AWS-CodeGirls-2025?style=social)](https://github.com/isadora-cmn/AWS-CodeGirls-2025/stargazers)
-[![Fork](https://img.shields.io/github/forks/isadora-cmn/AWS-CodeGirls-2025?style=social)](https://github.com/isadora-cmn/AWS-CodeGirls-2025/fork)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="150"/>
 </p>
 
-## 📑 Índice
+##  Índice:
 - [Sobre mim](#-sobre-mim)
 - [Objetivos do laboratório](#-objetivos-do-laboratório)
 - [O que você encontra aqui](#-o-que-você-encontra-aqui)
