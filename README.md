@@ -35,7 +35,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 
 ---
 
-### 📂 O que você encontra aqui
+###  O que você encontra aqui
 - `/Oracle/oraculo.md` — O Oráculo é um guia de termos e conceitos do meu projeto, inspirado em MATRIX.
 - `/modules/` — cursos organizados por módulos  
 - `/projects/` — desafios de códigos que desenvolvi  
@@ -59,7 +59,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 <br>
 
 
-## 🤝 Contribuição
+## Contribuição
 Este repositório é **aberto para a comunidade**!  
 Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 
@@ -77,6 +77,6 @@ Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 
 ---
 
-## 📄 Licença
+## Licença
 Este projeto está sob a **licença MIT** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
 
