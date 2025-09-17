@@ -41,10 +41,15 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 ---
 
 ##  Ferramentas e tecnologias
-- Git e GitHub  
-- VSCode  
-- Miro  
-- AWS  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" title="VSCode" alt="VSCode" width="40px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-1.svg" title="Miro" alt="Miro" width="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="60px"/>
+</p>
+
 
 ---
 
