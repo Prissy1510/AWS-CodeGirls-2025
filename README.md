@@ -10,11 +10,11 @@
 
 - [Sobre mim](#sobre-mim)
 - [Objetivos do laboratorio](#objetivos-do-laboratório)
-- [O que voce encontra aqui](#o-que-voce-encontra-aqui)
+- [O que voce encontra aqui](#o-que-você-encontra-aqui)
 - [Ferramentas e tecnologias](#ferramentas-e-tecnologias)
-- [Contribuicao](#contribuicao)
+- [Contribuicao](#contribuição)
 - [Fale comigo](#fale-comigo)
-- [Licenca](#licenca)
+- [Licenca](#licença)
 
 
 
@@ -71,7 +71,7 @@ Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 
 ---
 
-## 📬 Fale comigo
+## Fale comigo
 - LinkedIn: [Isadora Militão](https://www.linkedin.com/in/isadora-milit%C3%A3o-neves-61b85a346/)  
 - GitHub: [isadora-cmn](https://github.com/isadora-cmn)  
 
