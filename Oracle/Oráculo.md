@@ -1,6 +1,6 @@
                                                          📘 Oráculo AWS
 
-O **Oráculo** funciona como um guia de termos e conceitos do meu projeto, ajudando a entender tudo de forma clara — assim como o personagem **Oracle** de *Matrix*.  
+O **Oráculo** funciona como um guia de termos e conceitos do meu projeto, ajudando a entender tudo de forma clara — assim como a personagem **Oracle** de *Matrix*.  
 <p align="center">
   <img src="../assets/tenor.gif" alt="Oracle - Hmm... interessante" />
 </p>
