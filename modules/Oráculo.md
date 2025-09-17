@@ -24,9 +24,5 @@
 22. **S3 e AWS Backup** - Armazenam e automatizam o processo de backup.  
 23. **CloudWatch** - Monitora recursos e envia alertas sobre falhas.
 
-![Oracle - Hmm... interessante](https://media.tenor.com/Ms0bC0KZJoUAAAAC/matrix-oracle-hmm-interesting-that%27s-interesting-now-i%27m-supposed-to-say-the-matrix-gif-10880580184293565007.gif)
-<div class="tenor-gif-embed" data-postid="10880580184293565007" data-share-method="host" data-aspect-ratio="1.80435" data-width="100%"><a href="https://tenor.com/view/matrix-oracle-hmm-interesting-that%27s-interesting-now-i%27m-supposed-to-say-the-matrix-gif-10880580184293565007">Matrix Oracle Hmm Interesting GIF</a>from <a href="https://tenor.com/search/matrix+oracle-gifs">Matrix Oracle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-![Oracle - Hmm... interessante](https://media.tenor.com/Ms0bC0KZJoUAAAAC/matrix-oracle-hmm-interesting-that%27s-interesting-now-i%27m-supposed-to-say-the-matrix-gif.gif)
 
 ![Oracle - Hmm... interessante](../assets/tenor.gif)
