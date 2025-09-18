@@ -63,11 +63,6 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 <img src="./assets/aws-vpc.webp" title="AWS VPC" width="40px"/>
 <img src="./assets/aws-clouldfront.webp" title="AWS CloudFront" width="40px"/>
 
-
-
-  
-  <!-- Miro -->
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" title="Miro" alt="Miro"/>
 </p>
 
 ---
