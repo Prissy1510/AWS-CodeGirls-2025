@@ -1,6 +1,8 @@
                                                          📘 Oráculo AWS
 
-O **Oráculo** funciona como um guia de termos e conceitos do meu projeto, ajudando a entender tudo de forma clara — assim como a personagem **Oracle** de *Matrix*.  
+O Oráculo funciona como um guia de termos e conceitos do meu projeto, ajudando a entender tudo de forma clara — assim como a personagem Oracle de Matrix. 
+<br>
+Navegue por aqui para acessar informações detalhadas, aprender sobre cada conceito e explorar os recursos do projeto.  
 <p align="center">
   <img src="../assets/tenor.gif" alt="Oracle - Hmm... interessante" />
 </p>
