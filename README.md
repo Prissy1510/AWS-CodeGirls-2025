@@ -59,6 +59,10 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 <img src="./assets/aws-route53.webp" title="Amazon Route 53" width="40px"/>
 <img src="./assets/aws-rds.webp" title="Amazon RDS" width="40px"/>
 <img src="./assets/aws-iam.webp" title="AWS IAM" width="40px"/>
+<img src="./assets/aws-vpc.webp" title="AWS VPC" width="40px"/>
+<img src="./assets/aws-clouldfront.webp" title="AWS CloudFront" width="40px"/>
+
+
 
   
   <!-- Miro -->
