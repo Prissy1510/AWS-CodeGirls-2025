@@ -16,7 +16,7 @@ O **Oráculo** funciona como um guia de termos e conceitos do meu projeto, ajuda
 7. [**Availability Zones (AZ)**](../modules/Recursos-AWS/RegionEAvabZones.md)- Data centers independentes dentro de uma região, conectados logicamente.  
 8. [**IaaS**](../modules/Recursos-AWS/Iaas-Paas-Saas.md) - Infrastructure as a Service: Aluga infraestrutura (máquinas virtuais, rede, armazenamento).  
 9. [**PaaS**](../modules/Recursos-AWS/Iaas-Paas-Saas.md) - Platform as a Service: Plataforma pronta para desenvolver e rodar aplicações sem gerenciar servidores.  
-10.[**SaaS**](../modules/Recursos-AWS/Iaas-Paas-Saas.md) - Software as a Service: Aplicativos prontos acessados pela internet, sem manutenção pelo usuário.  
+10. [**SaaS**](../modules/Recursos-AWS/Iaas-Paas-Saas.md) - Software as a Service: Aplicativos prontos acessados pela internet, sem manutenção pelo usuário.  
 11.[**EC2**](../modules/Recursos-AWS/EC2.md) - Elastic Compute Cloud: Máquina virtual para rodar aplicações, paga pelo tempo de uso.  
 12.[**Tipos de Instâncias EC2**](../modules/Recursos-AWS/EC2.md) - Diferentes configurações de CPU, memória e armazenamento, agrupadas por famílias.  
 13.[**VPC (Virtual Private Cloud)**](../modules/Redes-AWS.md/VPC.md) - Rede virtual isolada na AWS onde você pode criar sub-redes, definir rotas e gerenciar recursos de forma segura.  
