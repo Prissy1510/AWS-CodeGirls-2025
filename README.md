@@ -7,7 +7,7 @@
 
 
 ## Índice:
-✨ Para começar, **navegue pelo Oráculo** clicando [aqui](./Oracle/Oráculo.md)!
+✨ Para começar, **navegue pelo Oráculo** clicando [AQUI](./Oracle/Oráculo.md)!
 
 - [Sobre mim](#sobre-mim)
 - [Objetivos do laboratorio](#objetivos-do-laboratório)
