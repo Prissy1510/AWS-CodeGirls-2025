@@ -17,3 +17,9 @@ Aqui está um banco de dados, protegido atrás de um cadeado — só o servidor 
 
 Você cria uma rede na nuvem, coloca o que precisa ser público (servidores web) em uma subnet pública e o que precisa ser protegido (banco de dados, APIs internas) em uma subnet privada.  
 Depois, usa regras de segurança para permitir apenas o tráfego que você quer.
+<br>
+
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl6NXVoZ2hjZnkxYTNndHdjczdzYm5laW1tc3phMTc4ZjNwZXpkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgkBTmxt18lGg/giphy.gif" width="157"/>
+</p>

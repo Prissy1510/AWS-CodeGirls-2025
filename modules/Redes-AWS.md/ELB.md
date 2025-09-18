@@ -18,3 +18,9 @@ O Elastic Load Balancer possui 4 tipos de balanceadores de carga que podemos uti
 **✓ Application Load Balancer**  
 - **Descrição:** Gerencia o tráfego de aplicação HTTP/HTTPS, distribuindo solicitações com base em regras, como caminhos de URL e cabeçalhos.  
 - **Uso Ideal:** Ideal para balancear o tráfego de aplicativos web que precisam de **roteamento avançado** e suporte a **WebSockets**.
+<br>
+
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl6NXVoZ2hjZnkxYTNndHdjczdzYm5laW1tc3phMTc4ZjNwZXpkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgkBTmxt18lGg/giphy.gif" width="157"/>
+</p>
