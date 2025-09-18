@@ -54,11 +54,12 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="60px"/>
 
   <!-- AWS Services com badges coloridos -->
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" title="Amazon EC2" alt="Amazon EC2"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" title="AWS Lambda" alt="AWS Lambda"/>
-  <img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" title="Amazon Route 53" alt="Amazon Route 53"/>
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" title="Amazon RDS" alt="Amazon RDS"/>
-  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS IAM" alt="AWS IAM"/>
+  <img src="./assets/amazon-EC2.webp" title="Amazon EC2" width="40px"/>
+<img src="./assets/aws-lambda.webp" title="AWS Lambda" width="40px"/>
+<img src="./assets/aws-route53.webp" title="Amazon Route 53" width="40px"/>
+<img src="./assets/aws-rds.webp" title="Amazon RDS" width="40px"/>
+<img src="./assets/aws-iam.webp" title="AWS IAM" width="40px"/>
+
   
   <!-- Miro -->
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" title="Miro" alt="Miro"/>
