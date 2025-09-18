@@ -47,18 +47,24 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 ### Ferramentas e tecnologias
 
 <p>
+  <!-- Ferramentas gerais -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="60px"/>
+
+  <!-- Serviços AWS com cores -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonec2.svg" title="Amazon EC2" alt="Amazon EC2" width="40px" style="filter: invert(53%) sepia(85%) saturate(746%) hue-rotate(352deg) brightness(101%) contrast(101%);"/>
   
-  <!-- AWS Services -->
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" title="Amazon EC2" alt="Amazon EC2"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" title="AWS Lambda" alt="AWS Lambda"/>
-  <img src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white" title="Amazon Route 53" alt="Amazon Route 53"/>
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" title="Amazon RDS" alt="Amazon RDS"/>
-  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS IAM" alt="AWS IAM"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awslambda.svg" title="AWS Lambda" alt="AWS Lambda" width="40px" style="filter: invert(54%) sepia(90%) saturate(743%) hue-rotate(357deg) brightness(102%) contrast(105%);"/>
   
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonroute53.svg" title="Amazon Route 53" alt="Amazon Route 53" width="40px" style="filter: invert(25%) sepia(38%) saturate(2800%) hue-rotate(230deg) brightness(95%) contrast(97%);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonrds.svg" title="Amazon RDS" alt="Amazon RDS" width="40px" style="filter: invert(36%) sepia(92%) saturate(1690%) hue-rotate(200deg) brightness(95%) contrast(97%);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" title="AWS IAM" alt="AWS IAM" width="40px" style="filter: invert(20%) sepia(80%) saturate(5000%) hue-rotate(330deg) brightness(90%) contrast(95%);"/>
+  
+  <!-- Miro -->
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" title="Miro" alt="Miro" width="80px"/>
 </p>
 
