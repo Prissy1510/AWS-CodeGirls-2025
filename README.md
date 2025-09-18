@@ -7,7 +7,7 @@
 
 
 ## Índice:
-✨ Para começar, **navegue pelo Oráculo** clicando [aqui](../AWS-CodeGirls-2025/Oracle/Oráculo.md)!
+✨ Para começar, **navegue pelo Oráculo** clicando [aqui](../AWS-CodeGirls-2025/Oracle)!
 
 - [Sobre mim](#sobre-mim)
 - [Objetivos do laboratorio](#objetivos-do-laboratório)
