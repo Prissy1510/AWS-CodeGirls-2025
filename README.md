@@ -51,6 +51,14 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="60px"/>
+  
+  <!-- AWS Services -->
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" title="Amazon EC2" alt="Amazon EC2"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" title="AWS Lambda" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white" title="Amazon Route 53" alt="Amazon Route 53"/>
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" title="Amazon RDS" alt="Amazon RDS"/>
+  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS IAM" alt="AWS IAM"/>
+  
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" title="Miro" alt="Miro" width="80px"/>
 </p>
 
