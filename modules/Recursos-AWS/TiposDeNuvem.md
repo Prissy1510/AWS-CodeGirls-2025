@@ -24,3 +24,5 @@
 - **Exemplo:** Site público em nuvem pública, dados sensíveis em privada.
 - **Prós:** Flexível, segura e econômica.
 - **Contras:** Mais complexa de gerenciar.
+
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)

@@ -16,3 +16,6 @@ A AWS possui uma extensa rede global de data centers, chamados de **"Regions"** 
 
 - **Regions**: São áreas geográficas contendo várias Availability Zones.  
 - **Availability Zones**: São data centers independentes fisicamente, mas conectados logicamente, para garantir alta disponibilidade.
+<br>
+
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)

@@ -46,4 +46,6 @@ O cliente CONSTRÓI e implanta sua aplicação sobre a plataforma gerenciada pel
 **IaaS - Infraestrutura como serviço**  
 Ideal para MIGRAR sistemas legados (tecnologias mais antigas) para a nuvem, oferecendo controle total sobre servidores e armazenamento.
 
+<br>
 
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)

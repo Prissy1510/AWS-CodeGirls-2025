@@ -22,3 +22,7 @@ Sempre que você quer que algum código seja executado **somente quando necessá
 ## **Analogia:**  
 É como programar um **robotzinho que só trabalha quando você aciona um botão**.  
 Ele não fica parado o tempo todo, só faz o trabalho quando precisa.
+
+<br>
+
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)

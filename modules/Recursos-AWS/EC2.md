@@ -41,3 +41,6 @@ Cada tipo de instância oferece diferentes recursos de computação como memóri
 ![alt text](.img/tiposDeInstancias.png) 
 ![alt text](.img/InstanceTypes.png)
 
+<br>
+
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)
