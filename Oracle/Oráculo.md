@@ -7,7 +7,7 @@ O **Oráculo** funciona como um guia de termos e conceitos do meu projeto, ajuda
 
 <br>
 
-1. **Nuvem Pública** - Servidores e serviços compartilhados por um provedor externo (ex: AWS, Google Drive).  
+1. [**Nuvem Pública**](../modules/Recursos-AWS/TiposDeNuvem.md) - Servidores e serviços compartilhados por um provedor externo (ex: AWS, Google Drive).  
 2. **Nuvem Privada** - Servidores exclusivos de uma empresa, internos ou dedicados.  
 3. **Nuvem Híbrida** - Combinação de nuvem pública e privada para flexibilidade e segurança.  
 4. **Serverless** - Modelo em que você roda código sem se preocupar com servidores; paga apenas pelo que usar.  
