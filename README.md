@@ -51,7 +51,7 @@ Estou documentando minhas práticas em nuvem, desafios e aprendizados para conso
 <p>
   <!-- Ferramentas gerais -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40px"/>
-<img width="40" height="40" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" alt="github"/>
+  <img width="40" height="40" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" alt="github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="60px"/>
 
