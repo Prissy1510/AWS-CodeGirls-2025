@@ -5,7 +5,7 @@ Nesta etapa do meu aprendizado, foi muito interessante conhecer e aplicar na pr�
 
 ---
 
-## Hands-on: Criando o Diagrama no AWS Step Functions
+## Hands-on: 
 
 Para este desafio, utilizei o **AWS Step Functions Workflow Studio** para construir visualmente o fluxo abaixo.  
 Cada etapa foi criada arrastando e configurando componentes como **Tasks, Choice e Integrations**, conectando-os para simular um sistema de compra e venda de ações.
@@ -14,7 +14,6 @@ Cada etapa foi criada arrastando e configurando componentes como **Tasks, Choice
 - Entendi melhor o **papel de cada estado** (Task, Choice, Pass, Succeed, Fail).
 - Aprendi a **definir transições** de um estado para outro.
 - Testei o fluxo para garantir que as decisões (buy/sell) estivessem funcionando corretamente.
-- Consegui ver na prática como **orquestrar microserviços** de forma centralizada e escalável.
 
 
 <img src=".img/WorkFlow.jpeg" alt="Workflow do Desafio" width="300"/>
@@ -27,12 +26,12 @@ Cada etapa foi criada arrastando e configurando componentes como **Tasks, Choice
 2. **Check Stock Price (Lambda)** → Função Lambda que consulta o preço da ação.
 3. **Generate Buy/Sell Recommendation (Lambda)** → Gera recomendação de compra ou venda.
 4. **Request Human Approval (SQS)** → Envia a recomendação para aprovação humana.
-5. **Buy or Sell? (Choice State)** → Verifica a recomendação:
+5. **Buy or Sell? (Choice State)** → Verifica/escolhe a recomendação:
    - Se `$.recommended_type == "buy"` → chama **Buy Stock**.
    - Se `$.recommended_type == "sell"` → chama **Sell Stock**.
 6. **Buy Stock / Sell Stock (Lambda)** → Executa a compra ou venda da ação.
-7. **Report Result (SNS)** → Publica o resultado final da operação.
-8. **End** → Finaliza o workflow.
+7. **Report Result (SNS)** → Notifica o resultado final.
+8. **End** → Finaliza.
 
 ---
 
