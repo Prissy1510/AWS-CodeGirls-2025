@@ -16,7 +16,7 @@ Cada etapa foi criada arrastando e configurando componentes como **Tasks, Choice
 - Testei o fluxo para garantir que as decisões (buy/sell) estivessem funcionando corretamente.
 
 
-<img src=".img/WorkFlow.jpeg" alt="Workflow do Desafio" width="400"/>
+<img src=".img/WorkFlow.jpeg" alt="Workflow do Desafio" width="350"/>
 
 ---
 
