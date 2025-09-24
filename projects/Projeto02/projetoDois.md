@@ -1,4 +1,4 @@
-# 📊 AWS Step Functions - Stock Trading Workflow
+#  AWS Step Functions - Workflow
 
 Nesta etapa do meu aprendizado, foi muito interessante conhecer e aplicar na prática um **fluxo de orquestração de microserviços** usando a AWS Step Functions.  
 
@@ -17,7 +17,7 @@ Cada etapa foi criada arrastando e configurando componentes como **Tasks, Choice
 - Consegui ver na prática como **orquestrar microserviços** de forma centralizada e escalável.
 
 
-![Workflow do Desafio](.img/WorkFlow.jpeg)
+<img src=".img/WorkFlow.jpeg" alt="Workflow do Desafio" width="300"/>
 
 ---
 
