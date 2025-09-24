@@ -3,7 +3,6 @@
 Aqui você encontra todos os **Desafios de Projeto** que desenvolvi ao longo do Bootcamp **Code Girls 2025**. 
 
 Cada pasta inclui:  
--  **Desafios de código resolvidos**  
 -  **Desafios de projeto completos**  
 -  **Anotações e insights**  
 
