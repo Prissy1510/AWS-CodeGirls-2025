@@ -4,13 +4,13 @@
 Nesta etapa do bootcamp, criei uma arquitetura simples usando **Amazon EC2**, **Amazon S3** e **AWS Lambda** para simular um sistema de upload e processamento de músicas.  
 O objetivo foi aplicar os conceitos aprendidos sobre instâncias EC2, armazenamento e funções serverless, consolidando o aprendizado de forma prática.
 
----
+
 
 ## Descrição do Desafio
 Este laboratório tem como objetivo consolidar os conhecimentos em **gerenciamento de instâncias EC2** na AWS.  
 O entregável consiste em um repositório organizado contendo anotações, diagramas e insights obtidos durante a prática.
 
----
+
 
 ## Objetivos de Aprendizagem
 Ao finalizar este desafio, fui capaz de:
@@ -19,7 +19,7 @@ Ao finalizar este desafio, fui capaz de:
 - Criar uma função **AWS Lambda** acionada por eventos S3.
 - Documentar a experiência de forma clara para uso futuro.
 
----
+
 
 ##  Arquitetura Criada
 A arquitetura desenvolvida segue o diagrama abaixo:
@@ -33,7 +33,7 @@ A arquitetura desenvolvida segue o diagrama abaixo:
 4. A função Lambda processa a música (ex: conversão de formato, normalização de áudio).
 5. O resultado é salvo de volta no **S3** e disponibilizado para o usuário consumir.
 
----
+
 
 ##  Conceitos Importantes
 
