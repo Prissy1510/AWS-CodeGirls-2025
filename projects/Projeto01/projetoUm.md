@@ -1,4 +1,4 @@
-# 🎵 Desafio - Gerenciando Instâncias EC2 na AWS
+#  Gerenciando Instâncias EC2 na AWS
 
 ##  Introdução
 Nesta etapa do bootcamp, criei uma arquitetura simples usando **Amazon EC2**, **Amazon S3** e **AWS Lambda** para simular um sistema de upload e processamento de músicas.  
