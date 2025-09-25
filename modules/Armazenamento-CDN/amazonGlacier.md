@@ -21,7 +21,7 @@ AWS Snow é usado para **transferir grandes volumes de dados (até petabytes)** 
 - **Snowmobile** → caminhão para transferir enormes quantidades de dados.
 
 
-<img src=".img/glacier.png" alt="AWS Lambda" width="450"/>
+<img src=".img/glacier.png" alt="AWS Lambda" width="550"/>
 
 [Voltar para o Oráculo](../../Oracle/Oráculo.md)
 <p align="left">
