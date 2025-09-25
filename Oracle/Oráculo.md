@@ -34,5 +34,7 @@
 21. [**RPO e RTO**](../modules/Banco-de-Dados-AWS/Exemplo-Diagrama.md) - Ajudam a definir a frequência de backup e o tempo máximo de recuperação.  
 22. [**S3 e AWS Backup**](../modules/Banco-de-Dados-AWS/Exemplo-Diagrama.md) - Armazenam e automatizam o processo de backup.  
 23. [**CloudWatch**](../modules/Banco-de-Dados-AWS/Exemplo-Diagrama.md) - Monitora recursos e envia alertas sobre falhas.
-
+24.[**S3 (Simple Storage Service)**](../modules/Armazenamento-CDN/s3.md) - Serviço de armazenamento em nuvem da AWS. Permite armazenar e recuperar grandes quantidades de dados de forma escalável e segura. É baseado no conceito de **Buckets**, que são como pastas onde os arquivos (objetos) são armazenados.
+25.[**Bucket**](../modules/Armazenamento-CDN/bucket.md) - Contêiner lógico dentro do S3 onde os objetos (arquivos) são armazenados. Cada bucket tem um nome único globalmente e pode ter políticas de acesso, versionamento e criptografia configuradas.
+26.[**Amazon Glacier**](../modules/Armazenamento-CDN/amazonGlacier.md) - Serviço de armazenamento de baixo custo da AWS para arquivamento de longo prazo e backup de dados que são acessados com pouca frequência. Oferece diferentes opções de tempo de recuperação (minutos a horas) com preços reduzidos em comparação ao S3 padrão.
 
