@@ -15,7 +15,7 @@
 2. [**Nuvem Privada**](../modules/Recursos-AWS/TiposDeNuvem.md) - Servidores exclusivos de uma empresa, internos ou dedicados.  
 3. [**Nuvem Híbrida**](../modules/Recursos-AWS/TiposDeNuvem.md) - Combinação de nuvem pública e privada para flexibilidade e segurança.  
 4. [**Serverless**](../modules/Recursos-AWS/Serverless.md) - Modelo em que você roda código sem se preocupar com servidores; paga apenas pelo que usar.  
-5. [**Lambda**](../modules/Recursos-AWS/Lambda.md) - Serviço serverless da AWS que executa funções automaticamente quando acionadas.  
+5. [**Lambda Function**](../modules/Recursos-AWS/Lambda.md) - Serviço serverless da AWS que executa funções automaticamente quando acionadas.  
 6. [**Regions**](../modules/Recursos-AWS/RegionEAvabZones.md) - Áreas geográficas com múltiplas zonas de disponibilidade.  
 7. [**Availability Zones (AZ)**](../modules/Recursos-AWS/RegionEAvabZones.md)- Data centers independentes dentro de uma região, conectados logicamente.  
 8. [**IaaS**](../modules/Recursos-AWS/Iaas-Paas-Saas.md) - Infrastructure as a Service: Aluga infraestrutura (máquinas virtuais, rede, armazenamento).  
