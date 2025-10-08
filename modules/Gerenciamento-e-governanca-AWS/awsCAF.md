@@ -18,3 +18,10 @@ Perspectivas (resumo):
 
     Quando usar: planejar migração/adoção, mapear lacunas de capacidades e montar roadmap com papéis e prioridades.  
     Dica rápida: envolva stakeholders de todas as perspectivas desde o início para evitar gargalos organizacionais.
+
+    <br>
+
+[Voltar para o Oráculo](../../Oracle/Oráculo.md)
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl6NXVoZ2hjZnkxYTNndHdjczdzYm5laW1tc3phMTc4ZjNwZXpkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgkBTmxt18lGg/giphy.gif" width="157"/>
+</p>
