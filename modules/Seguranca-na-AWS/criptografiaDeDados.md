@@ -54,6 +54,7 @@ A **criptografia** é uma técnica essencial para proteger dados sensíveis, gar
 - Combina facilidade de gerenciamento com alta segurança, usando serviços integrados da AWS.
 
 <br>
+
 [Voltar para o Oráculo](../../Oracle/Oráculo.md)
 <p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl6NXVoZ2hjZnkxYTNndHdjczdzYm5laW1tc3phMTc4ZjNwZXpkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgkBTmxt18lGg/giphy.gif" width="157"/>
