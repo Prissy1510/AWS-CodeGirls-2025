@@ -25,7 +25,7 @@ Isso é feito através de **templates declarativos**, onde você descreve o que 
 No CloudFormation, uma **Stack** é o **conjunto de recursos que são criados e gerenciados como uma única unidade**.  
 Quando um template é enviado ao CloudFormation, ele gera uma stack com todos os recursos definidos — como servidores, redes, e bancos de dados.  
 
-### 🔍 Exemplo de fluxo:
+###  Exemplo de fluxo:
 1. Criar um arquivo `template.yaml` descrevendo os recursos (ex: uma instância EC2 e um Security Group).  
 2. Fazer o upload do template no CloudFormation.  
 3. O serviço cria automaticamente todos os recursos, formando uma **Stack**.  
