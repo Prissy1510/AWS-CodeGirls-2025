@@ -49,3 +49,5 @@
 36. [**AWS Policies e Roles**](../modules/Gerenciamento-e-governanca-AWS/awsPolicesRoles.md) - Policies definem permissões e Roles permitem que usuários, serviços ou contas assumam essas permissões.
 37. [**AWS Well-Architected Framework**](../modules/Gerenciamento-e-governanca-AWS/awsWellArchitected.md) - Conjunto de boas práticas para criar soluções seguras, eficientes, resilientes e econômicas na nuvem.
 38. [**AWS CAF (Cloud Adoption Framework)**](../modules/Gerenciamento-e-governanca-AWS/awsCAF.md) - Guia estratégico para planejar e estruturar a adoção da nuvem alinhando tecnologia, processos e pessoas.
+39. [**Criptografia de Dados na AWS**](../modules/Seguranca-na-AWS/criptografiaDeDados.md)- Protege dados em trânsito e em repouso usando chaves gerenciadas pela AWS ou pelo cliente, garantindo segurança e conformidade.
+
