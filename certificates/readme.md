@@ -12,5 +12,5 @@ Aqui você encontra todos os meus **certificados de conclusão** obtidos ao long
 
 💡 **Dica:** Clique nos arquivos para visualizar cada certificado — e comemore comigo cada conquista! 🎉
 
-![Progress](https://img.shields.io/badge/progresso-78%25-brightgreen)
+![Progress](https://img.shields.io/badge/progresso-100%25-brightgreen)
 [![Ver Certificados](https://img.shields.io/badge/ver%20certificados-📂-purple)](./CertificadosDeConclusão/)
