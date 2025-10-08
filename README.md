@@ -9,6 +9,7 @@
 ## Índice:
 ✨ Para começar, **navegue pelo Oráculo** clicando [AQUI](./Oracle/Oráculo.md)!
 
+- [Minha Conclusão e Parabenização](./CONCLUSÃO/ConclusaoEParabenizacao.md) 
 - [Sobre mim](#sobre-mim)
 - [Objetivos do laboratorio](#objetivos-do-laboratório)
 - [O que voce encontra aqui](#o-que-você-encontra-aqui)
