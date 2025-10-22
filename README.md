@@ -22,7 +22,8 @@
 
 ---
 ### Sobre mim
-Oi! Eu sou **Priscilla da Silva Correa Ferreira**, estudante de Sistemas de Informação, apaixonada por nuvem e dados.  
+Olá, pessoal! 
+Eu sou **Priscilla Correa**, estudante de Sistemas de Informação, apaixonada por nuvem e dados.  
 Estou documentando minhas práticas em nuvem, desafios e aprendizados para consolidar meus conhecimentos e facilitar consultas futuras.
 
 
