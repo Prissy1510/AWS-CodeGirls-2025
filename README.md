@@ -22,7 +22,7 @@
 
 ---
 ### Sobre mim
-Oi! Eu sou **Isadora Militão Neves**, estudante de Ciência da Computação e Ciência de Dados, apaixonada por backend e dados.  
+Oi! Eu sou **Priscilla da Silva Correa Ferreira**, estudante de Sistemas de Informação, apaixonada por nuvem e dados.  
 Estou documentando minhas práticas em nuvem, desafios e aprendizados para consolidar meus conhecimentos e facilitar consultas futuras.
 
 
@@ -86,8 +86,8 @@ Se você é aluna do **Bootcamp Code Girls 2025** ou apenas quer se inspirar:
 ---
 
 ## Fale comigo
-- LinkedIn: [Isadora Militão](https://www.linkedin.com/in/isadora-milit%C3%A3o-neves-61b85a346/)  
-- GitHub: [isadora-cmn](https://github.com/isadora-cmn)  
+- LinkedIn: [Priscilla Correa](https://www.linkedin.com/in/priscilla-correa-ferreira/)  
+- GitHub: [Prissy1510](https://github.com/Prissy1510)  
 
 ---
 
